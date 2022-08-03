@@ -1,0 +1,1 @@
+func([]string) (string, []rune)
